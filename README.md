@@ -13,3 +13,5 @@ Helm: Glint's Crystal (128,26,26); Searing (128,26,26); Frost (128,26,26); Dye R
 Leggings: Frost (128,26,26); Glint's Crystal (128,26,26); Searing (128,26,26); Dye Remover
 Shoulders: Glint's Crystal (128,26,26); Searing (128,26,26); Frost (128,26,26); Dye Remover
 ~~~
+
+API Reference: https://wiki.guildwars2.com/wiki/API:2
